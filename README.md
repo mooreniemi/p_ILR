@@ -21,12 +21,15 @@ The baseline level of the scale is no proficiency, rated 0. The following descri
 
 > may be able to ask questions or make statements with reasonable accuracy only with memorized utterances or formulae
 > understanding limited to occasional isolated words or memorized utterances in areas of immediate needs.
+
 Knows an isolated, common slice of the core API.
 
 > unable to read connected prose but may be able to read numbers, isolated words and phrases, personal and place names, street signs, office and shop designations
+
 Can basically read the code flow back logically.
 
 > may be able to produce symbols in an alphabetic or syllabic writing system or 50 of the most common characters
+
 Has some rough sense of the syntax sufficient to determine keywords.
 
 ## se_ILR Level 1
