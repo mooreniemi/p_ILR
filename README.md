@@ -115,4 +115,4 @@ Has made some contributions to the core of the language or foundational librarie
 
 > has complete fluency in the language, such that speech on all levels is fully accepted by educated native speakers in all of its features, including breadth of vocabulary and idiom, colloquialisms, and pertinent cultural references.
 
-Is the primary author of the language, or maintainer of its spec/standard.
+Is the primary author of the language, or maintainer of its spec/standard. Has written interpreters/compilers for the language.
