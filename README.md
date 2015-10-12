@@ -105,7 +105,7 @@ Can comfortably mentor others in the language, answer any intermediate questions
 
 > would rarely be taken for a native speaker, but can respond appropriately even in unfamiliar grounds or situations
 
-Does not know the internals of how the language was written. For higher level languages may not have much experience in how low level constructs of it are used, ie. garbage collection. Has not authored any critical or foundational libraries, ie. in Ruby was not a Rails contributor.
+Does not necessarily know the internals of how the language was written, but should probably know their effects: in Java could explain relative merits of garbage collection strategies even if they have not helped write any of them. Probably has not authored any critical or foundational libraries, ie. in Ruby was not a Rails contributor.
 
 > makes only quite rare and minute errors of pronunciation and grammar
 
