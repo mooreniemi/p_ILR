@@ -17,7 +17,7 @@
      |___________ejm|
 
 # p_ILR
-a "translation" of the "Interagency Language Roundtable" for *p*rogrammers, pronounced "Pillar"
+a "translation" of the "Interagency Language Roundtable" scale for *_p_*rogrammers, pronounced "Pillar"
 
 ## motivation
 It is really hard to judge fluency in a language. Harder still to judge fluency in programming generally. This is an attempt at a scale for the former, easier problem. The intent is less a tool for hiring (as language specific skill probably *shouldn't* be our metric) but for learning and leveling in a *skill guild*.
@@ -143,4 +143,4 @@ Needs to keep up with activity of latest news in the language development, via m
 
 > has complete fluency in the language, such that speech on all levels is fully accepted by educated native speakers in all of its features, including breadth of vocabulary and idiom, colloquialisms, and pertinent cultural references.
 
-Is a maintainer of it the language's spec/standard. Has written or contributed substantially to interpreters/compilers for the language and can explain the relationship between the implementation of features and the constraints placed on those features by implementation.
+Is a maintainer of the language's spec/standard. Has written or contributed substantially to interpreters/compilers for the language and can explain the relationship between the implementation of features and the constraints placed on those features by implementation.
