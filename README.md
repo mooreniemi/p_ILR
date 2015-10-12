@@ -96,6 +96,9 @@ May not write the most concise or fluid code, but has no issues with syntax or m
 ## se_ILR Level 4
 Full professional proficiency is rated 4 on the scale. A person at this level is described as follows:
 > able to use the language fluently and accurately on all levels and as normally pertinent to professional needs.
+
+Can easily practice TDD in this language when appropriate, if applicable. Works more comfortably in this language than psuedocode first.
+
 > can understand and participate in any conversations within the range of own personal and professional experience with a high degree of fluency and precision of vocabulary
 
 Can comfortably mentor others in the language, answer any intermediate questions on it, and debate merits of language versus other languages. Has worked deeply with several important libraries, and has informed opinions on their merits from experience. Has probably had contact with the maintainers of libraries, or made contributions to common libraries.
@@ -105,16 +108,19 @@ Can comfortably mentor others in the language, answer any intermediate questions
 Does not know the internals of how the language was written. For higher level languages may not have much experience in how low level constructs of it are used, ie. garbage collection. Has not authored any critical or foundational libraries, ie. in Ruby was not a Rails contributor.
 
 > makes only quite rare and minute errors of pronunciation and grammar
+
+Solid and productive code reviewer.
+
 > can handle informal interpreting of the language.
 
-Solid and productive code reviewer. Probably works more comfortably in this language than psuedocode first. Can easily practice TDD in this language when appropriate.
+Able to explain the core concepts of a language (if applicable) or "metaphors" of the language (if applicable), ie. in TCL understands "everything is a command"/"everything is a string" and can explain how that influences or causes language constructs "this is why you can't have a comment at the end of an instruction".
 
 ## se_ILR Level 5
 Native or bilingual proficiency is rated 5 on the scale. A person at this level is described as follows:
 > has a speaking proficiency equivalent to that of an educated native speaker
 
-Has made some contributions to the core of the language or foundational libraries, ie. in Java contributed substantially to Spring.
+Needs to keep up with activity of latest news in the language development, via mailing list or other discussion tools. Has made: some contributions to the core of the language or foundational libraries, ie. in Java contributed substantially to Spring; written books; keeps a non-trivial blog, spoken at conferences. (Not an exhaustive list.)
 
 > has complete fluency in the language, such that speech on all levels is fully accepted by educated native speakers in all of its features, including breadth of vocabulary and idiom, colloquialisms, and pertinent cultural references.
 
-Is the primary author of the language, or maintainer of its spec/standard. Has written interpreters/compilers for the language.
+Is the primary author of the language, or maintainer of its spec/standard. Has written interpreters/compilers for the language and can explain the relationship between the implementation of features and the constraints placed on those features by implementation.
