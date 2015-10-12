@@ -19,6 +19,8 @@ The scale is modeled on [ILR Scale](https://en.wikipedia.org/wiki/ILR_scale):
 The baseline level of the scale is no proficiency, rated 0. The following describes the traits of an ILR Level 0 individual:
 > oral production limited to occasional, isolated words
 
+Workflow often looks like: `Google -> StackOverflow -> cmd + c -> cmd + v`
+
 > may be able to ask questions or make statements with reasonable accuracy only with memorized utterances or formulae
 > understanding limited to occasional isolated words or memorized utterances in areas of immediate needs.
 > may be able to produce symbols in an alphabetic or syllabic writing system or 50 of the most common characters
@@ -27,7 +29,7 @@ Knows an isolated, common slice of the core API. For instance, someone who can u
 
 > unable to read connected prose but may be able to read numbers, isolated words and phrases, personal and place names, street signs, office and shop designations
 
-Can basically read the code flow back logically. Has some rough sense of the syntax sufficient to determine keywords. May be able to recognize statement flow, functions, variables.
+Has some rough sense of the syntax sufficient to determine keywords. May be able to recognize statement flow, functions, variables.
 
 ## se_ILR Level 1
 Elementary proficiency is rated 1 on the scale. The following describes the traits of an ILR Level 1 individual:
