@@ -1,21 +1,23 @@
-# se_ILR
-a "translation" of ILR for programmers
+# p_ILR
+a "translation" of the "Interagency Language Roundtable" for *p*rogrammers, pronounced "Pillar"
 
 ## motivation
-It is really hard to judge fluency in a language. Harder still to judge fluency in programming generally. This is an attempt at a scale for the former, easier problem. The intent is less a tool for hiring (as language specific skill probably shouldn't be our metric) but for learning and leveling in a skill guild.
+It is really hard to judge fluency in a language. Harder still to judge fluency in programming generally. This is an attempt at a scale for the former, easier problem. The intent is less a tool for hiring (as language specific skill probably *shouldn't* be our metric) but for learning and leveling in a *skill guild*.
 
 The scale is modeled on [ILR Scale](https://en.wikipedia.org/wiki/ILR_scale):
 > a set of descriptions of abilities to communicate in a language. It is the standard grading scale for language proficiency in the Federal service. It was originally developed by the Interagency Language Roundtable (ILR), which included representation by United States Foreign Service Institute, the predecessor of the National Foreign Affairs Training Center (NFATC).
 
-## the se_ILR
-- [se_ILR Level 0](#se_ilr-level-0) – No proficiency
-- [se_ILR Level 1](#se_ilr-level-1) – Elementary proficiency
-- [se_ILR Level 2](#se_ilr-level-2) – Limited working proficiency
-- [se_ILR Level 3](#se_ilr-level-3) – Professional working proficiency
-- [se_ILR Level 4](#se_ilr-level-4) – Full professional proficiency
-- [se_ILR Level 5](#se_ilr-level-5) – Core requirements author or contributor
+The ILR scale is as compared against the "native speaker". For this interpretation, who is this "native speaker?" We roughly claim the "native speaker" is the primary or foundational author of a language or its key compiler/interpreter (in other words, the computer as a native speaker).
 
-## se_ILR Level 0
+## the p_ILR
+- [p_ILR Level 0](#p_ilr-level-0) – No proficiency
+- [p_ILR Level 1](#p_ilr-level-1) – Elementary proficiency
+- [p_ILR Level 2](#p_ilr-level-2) – Limited working proficiency
+- [p_ILR Level 3](#p_ilr-level-3) – Professional working proficiency
+- [p_ILR Level 4](#p_ilr-level-4) – Full professional proficiency
+- [p_ILR Level 5](#p_ilr-level-5) – Core requirements author or contributor
+
+## p_ILR Level 0
 The baseline level of the scale is no proficiency, rated 0. The following describes the traits of an ILR Level 0 individual:
 > oral production limited to occasional, isolated words
 
@@ -31,7 +33,7 @@ Knows an isolated, common slice of the core API. For instance, someone who can u
 
 Has some rough sense of the syntax sufficient to determine keywords. May be able to recognize statement flow, functions, variables.
 
-## se_ILR Level 1
+## p_ILR Level 1
 Elementary proficiency is rated 1 on the scale. The following describes the traits of an ILR Level 1 individual:
 > can fulfill travelling needs and conduct themselves in a polite manner
 > able to use questions and answers for simple topics within a limited level of experience
@@ -49,7 +51,7 @@ speech is normally very laborious.
 Can write basic scripts using core library API.
 
 
-## se_ILR Level 2
+## p_ILR Level 2
 Limited working proficiency is rated 2 on the scale. A person at this level is described as follows:
 > able to satisfy routine social demands and limited work requirements
 
@@ -71,7 +73,7 @@ May mischaracterize features of the language, or use analogy to another language
 
 Will probably miss idioms that allow easier manipulation of language constructs.
 
-## se_ILR Level 3
+## p_ILR Level 3
 Professional working proficiency is rated 3 on the scale. Level 3 is what is usually used to measure how many people in the world know a given language. A person at this level is described as follows:
 > able to speak the language with sufficient structural accuracy and vocabulary to participate effectively in most conversations on practical, social, and professional topics
 
@@ -93,7 +95,7 @@ Knows all the common functions, where to look up any they are unsure of, and can
 
 May not write the most concise or fluid code, but has no issues with syntax or misusing constructs. A Haskell programmer using all `do` notation may be in this category.
 
-## se_ILR Level 4
+## p_ILR Level 4
 Full professional proficiency is rated 4 on the scale. A person at this level is described as follows:
 > able to use the language fluently and accurately on all levels and as normally pertinent to professional needs.
 
@@ -115,7 +117,7 @@ Solid and productive code reviewer.
 
 Able to explain the core concepts of a language (if applicable) or "metaphors" of the language (if applicable), ie. in TCL understands "everything is a command"/"everything is a string" and can explain how that influences or causes language constructs "this is why you can't have a comment at the end of an instruction".
 
-## se_ILR Level 5
+## p_ILR Level 5
 Native or bilingual proficiency is rated 5 on the scale. A person at this level is described as follows:
 > has a speaking proficiency equivalent to that of an educated native speaker
 
@@ -123,4 +125,4 @@ Needs to keep up with activity of latest news in the language development, via m
 
 > has complete fluency in the language, such that speech on all levels is fully accepted by educated native speakers in all of its features, including breadth of vocabulary and idiom, colloquialisms, and pertinent cultural references.
 
-Is the primary author of the language, or maintainer of its spec/standard. Has written interpreters/compilers for the language and can explain the relationship between the implementation of features and the constraints placed on those features by implementation.
+Is a maintainer of it the language's spec/standard. Has written or contributed substantially to interpreters/compilers for the language and can explain the relationship between the implementation of features and the constraints placed on those features by implementation.
