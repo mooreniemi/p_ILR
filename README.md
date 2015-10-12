@@ -17,7 +17,7 @@
      |___________ejm|
 
 # p_ILR
-a "translation" of the "Interagency Language Roundtable" scale for *_p_*rogrammers, pronounced "Pillar"
+A "translation" of the "Interagency Language Roundtable" scale for *_p_*rogrammers, pronounced "Pillar"
 
 ## motivation
 It is really hard to judge fluency in a language. Harder still to judge fluency in programming generally. This is an attempt at a scale for the former, easier problem. The intent is less a tool for hiring (as language specific skill probably *shouldn't* be our metric) but for learning and leveling in a *skill guild*.
@@ -85,7 +85,7 @@ Does not have depth in any library they work with, but knows how to ask for help
 
 > has an accent which, though often quite faulty, is intelligible
 
-May mischaracterize features of the language, or use analogy to another language, to try to explain what they're doing. Probably writes in psuedocode first and "transliterates" to the language.
+May mischaracterize features of the language, or use analogy to another language, to try to explain what they're doing. Probably writes in pseudocode first and "transliterates" to the language.
 
 > can usually handle elementary constructions quite accurately but does not have thorough or confident control of the grammar.
 
@@ -117,7 +117,7 @@ May not write the most concise or fluid code, but has no issues with syntax or m
 Full professional proficiency is rated 4 on the scale. A person at this level is described as follows:
 > able to use the language fluently and accurately on all levels and as normally pertinent to professional needs.
 
-Can easily practice TDD in this language when appropriate, if applicable. Works more comfortably in this language than psuedocode first.
+Can easily practice TDD in this language when appropriate, if applicable. Works more comfortably in this language than pseudocode first.
 
 > can understand and participate in any conversations within the range of own personal and professional experience with a high degree of fluency and precision of vocabulary
 
